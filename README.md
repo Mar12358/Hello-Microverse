@@ -68,26 +68,19 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Visual Studio Code.
+Visual Studio Code.
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://html.com/">HTML</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Style</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://lenguajecss.com/">CSS</a></li>
   </ul>
 </details>
 
@@ -107,9 +100,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Cooming Soon.
-
-- [Live Demo Link](https://google.com)
+Not Aplicable
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,20 +108,34 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Set up a "Hello Microverse" project
-Learning Objectives
-Create branches with different base branches.
-Understand the concept of version control.
-Follow GitHub flow.
-Open pull requests in GitHub.
-Write descriptive, easy to understand commit messages.
-Write short, detailed, easy to understand descriptions of pull requests.
-Write a descriptive and easy to understand README in business English for every project submitted.
-Demonstrate an ability to submit a project for code review..
 
 ### Prerequisites
 
+<details>
+  <summary>Installation of Git</summary>
+  <ul>
+    <li><a href="https://github.com/">GitHub</a></li>
+  </ul>
+</details>
 
+<details>
+  <summary>Installation of NPM</summary>
+  <ul>
+    <li>Type: npm install</li>
+  </ul>
+</details>
+
+<details>
+  <summary>A working browser</summary>
+</details>		 
+
+<details>
+  <summary>Internet connection</summary>
+</details>
+
+<details>
+  <summary>A code editor</summary>
+</details>
 
 <!--
 Example command:
