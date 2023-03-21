@@ -3,7 +3,7 @@
 <div align="center">
   <img src="logo.png" alt="logo" width="250"  height="auto" />
   <br/>
-  <h3><b>Hello Microverse Project</b></h3>
+  <h1><b>Hello Microverse Project</b></h1>
 </div>
 
 # 📗 Table of Contents
@@ -56,8 +56,6 @@ Visual Studio Code.
 
 ### Key Features <a name="key-features"></a>
 
-> Making sure the repository is ready
-
 - **[No linter errors]**
 - **[Correct use of GitHub flow]**
 - **[Work Documented]**
@@ -87,7 +85,7 @@ Not Aplicable
 <details>
   <summary>Installation of NPM</summary>
   <ul>
-    <li>Type: npm install</li>
+    <li>npm install</li>
   </ul>
 </details>
 
@@ -113,8 +111,7 @@ Example command:
 
 ### Setup
 
-Upcoming features...
-
+Coming Soon...
 <!--
 Example commands:
 
@@ -126,7 +123,7 @@ Example commands:
 
 ### Install
 
-Upcoming features...
+Coming Soon...
 
 <!--
 Example command:
@@ -139,7 +136,7 @@ Example command:
 
 ### Usage
 
-Upcoming features...
+Coming Soon...
 <!--
 Example command:
 
@@ -147,30 +144,6 @@ Example command:
   rails server
 ```
 --->
-
-### Run tests
-
-Upcoming features...
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-Upcoming features...
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,7 +160,9 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-N/A
+- [ ] **[Setup explanation]**
+- [ ] **[Install explanation]**
+- [ ] **[Usage explanation]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -201,7 +176,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-Feel free to support me, nothing can stop success, 
+Feel free to support, nothing can stop success, 
 
 If you like this project, payments will be implemented soon...
 
@@ -209,15 +184,15 @@ If you like this project, payments will be implemented soon...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my my mentor and code reviewers for the hard work, and my daily session teamates and coding partnes for discussing relevant issues according this project.
+I would like to thank my mentor and code reviewers for the hard work, and my daily session teamates and coding partnes for discussing relevant issues according this project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ <a name="faq"></a>
 
 
-- **[Are there such things as impossible things?]**
+- **Are there such things as impossible things?**
 
-  - [¡No! Only work to be done]
+  - ¡No! Only work to be done
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
