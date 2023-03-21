@@ -1,0 +1,4 @@
+#Add node_modules to gitignore file
+node_modules/
+#Add other files
+test.md
