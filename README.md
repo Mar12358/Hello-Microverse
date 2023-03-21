@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="logo.png" alt="logo" width="160"  height="auto" />
+  <img src="logo.png" alt="logo" width="250"  height="auto" />
   <br/>
   <h3><b>Hello Microverse Project</b></h3>
 </div>
@@ -176,24 +176,18 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-Martin Ezequiel González
+👤 **Martín Ezequiel González**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/Mar12358)
-- Twitter: [@twitterhandle](Coming Soon...)
-- LinkedIn: [LinkedIn](Coming Soon...)
+- GitHub: [@Mar12358](https://github.com/Mar12358)
+- Twitter: [@MarezegonZ](https://twitter.com/MarezegonZ)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/martin-ezequiel-gonzalez-30a413260/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Coming Soon!
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -215,8 +209,7 @@ If you like this project, payments will be implemented soon...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank My Morning Session teamates and coding partnes, for discussing relevant issues according this project.
-
+I would like to thank my my mentor and code reviewers for the hard work, and my daily session teamates and coding partnes for discussing relevant issues according this project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
@@ -228,8 +221,6 @@ I would like to thank My Morning Session teamates and coding partnes, for discus
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
