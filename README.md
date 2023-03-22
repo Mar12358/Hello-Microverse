@@ -149,7 +149,7 @@ To install Stylelint:
 
 - GitHub: [@Mar12358](https://github.com/Mar12358)
 - Twitter: [@MarezegonZ](https://twitter.com/MarezegonZ)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/martin-ezequiel-gonzalez-30a413260/)
+- LinkedIn: [Martin Ezequiel Gonzalez](https://www.linkedin.com/in/martin-ezequiel-gonzalez-30a413260/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
