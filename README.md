@@ -171,10 +171,9 @@ Feel free to check the [issues page](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
+Nothing can stop success!
 
-Feel free to support, nothing can stop success, 
-
-If you like this project, payments will be implemented soon...
+Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
