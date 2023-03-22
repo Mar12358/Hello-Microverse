@@ -1,0 +1,5 @@
+#.gitignore node_modules
+node_modules/
+package.json
+#.gitignore other files
+test.md
