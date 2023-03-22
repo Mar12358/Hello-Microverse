@@ -37,7 +37,12 @@ This project is a "Hello world" repository. No complex coding is required for th
 
 ### Tech Stack <a name="tech-stack"></a>
 
-Visual Studio Code.
+<details>
+  <summary>Text Editor</summary>
+  <ul>
+    <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+  </ul>
+</details>
 
 <details>
   <summary>Client</summary>
@@ -74,6 +79,16 @@ Not Aplicable
 
 
 ### Prerequisites
+A working browser
+- **A working browser**
+- **Internet connection**
+
+<details>
+  <summary>A code editor</summary>
+  <ul>
+    <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+  </ul>
+</details>
 
 <details>
   <summary>Installation of Git</summary>
@@ -85,21 +100,10 @@ Not Aplicable
 <details>
   <summary>Installation of NPM</summary>
   <ul>
-    <li>npm install</li>
+    <li><a href="https://nodejs.org/">nodejs</a></li>
   </ul>
 </details>
 
-<details>
-  <summary>A working browser</summary>
-</details>		 
-
-<details>
-  <summary>Internet connection</summary>
-</details>
-
-<details>
-  <summary>A code editor</summary>
-</details>
 
 <!--
 Example command:
@@ -109,6 +113,19 @@ Example command:
 ```
  -->
 
+
+
+
+
+
+
+
+
+
+
+
+
+<!--------------------->
 ### Setup
 
 Coming Soon...
@@ -144,6 +161,44 @@ Example command:
   rails server
 ```
 --->
+<!--------------------->
+
+### Setup
+
+To clone this repository to your local machine, open a terminal and select desired folder:
+```sh
+  cd my-folder
+```
+Clone:
+```sh
+  git clone https://github.com/Mar12358/Hello-Microverse.git
+```
+
+
+### Install
+
+Once in your local repo folder:
+
+To install Webhint:
+
+
+```sh
+  npm init -y
+  npm install --save-dev hint@7.x
+  npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+```
+To install Stylelint:
+```sh
+  npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+```
+
+### Usage
+- Learn how to use [Linters in HTML and CSS](https://github.com/microverseinc/linters-config/tree/master/html-css-js)
+- To visualize the project, open it by launching the Live Server plugging in visual studio code.
+
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,9 +215,9 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Setup explanation]**
-- [ ] **[Install explanation]**
-- [ ] **[Usage explanation]**
+- [ ] **[future_feature_1]**
+- [ ] **[future_feature_2]**
+- [ ] **[future_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
