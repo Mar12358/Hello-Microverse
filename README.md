@@ -104,65 +104,6 @@ A working browser
   </ul>
 </details>
 
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--------------------->
-### Setup
-
-Coming Soon...
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
-### Install
-
-Coming Soon...
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-Coming Soon...
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-<!--------------------->
-
 ### Setup
 
 To clone this repository to your local machine, open a terminal and select desired folder:
@@ -215,7 +156,7 @@ To install Stylelint:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[future_feature_1]**
+- [ ] **[FAQ]**
 - [ ] **[future_feature_2]**
 - [ ] **[future_feature_3]**
 
